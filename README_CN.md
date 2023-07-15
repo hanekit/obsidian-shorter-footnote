@@ -1,8 +1,8 @@
 # Shorter Footnote
 
 <p align="center">
-  English |
-  <a href="./README_CN.md">中文</a>
+  <a href="./README.md">English</a>
+  | 中文
 </p>
 
 在 Obsidian 中，重复出现的引用会被标注为 [num-count] 的形式，这会和 [num to num] 的形式混淆。
