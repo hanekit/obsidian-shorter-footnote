@@ -1,9 +1,10 @@
 # Shorter Footnote
 
 <p align="center">
-  <a href="./README.md">English</a>
-  | 中文
+  English |
+  <a href="./README_CN.md">中文</a>
 </p>
+
 
 In Obsidian, repeated references are marked in the form of [num-count], which can be confused with the form [num to num].
 
