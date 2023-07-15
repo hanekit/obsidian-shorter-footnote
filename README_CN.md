@@ -5,16 +5,16 @@
   | 中文
 </p>
 
-在 Obsidian 中，重复出现的引用会被标注为 [num-count] 的形式，这会和 [num to num] 的形式混淆。
+In Obsidian, repeated references are marked in the form of [num-count], which can be confused with the form [num to num].
 
-本插件就是为了解决此问题制作的。
+This plugin is designed to solve this issue.
 
 ---
 
-Better Footnote 插件会影响该插件的作用，如果需要避免，请遵守以下步骤：
+The Better Footnote plugin affects the functionality of this plugin. If you want to avoid that, please follow these steps:
 
-1. 启用 Shorter Footnote 插件
-2. 关闭 Better Footnote 插件
-3. 启用 Better Footnote 插件
+1. Enable the Shorter Footnote plugin.
+2. Disable the Better Footnote plugin.
+3. Enable the Better Footnote plugin.
 
-这样两者都可以正常使用。
+By doing this, both plugins can be used properly.
