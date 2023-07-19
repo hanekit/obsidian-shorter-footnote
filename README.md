@@ -4,7 +4,6 @@
     <strong>English</strong> | <a href="./README_CN.md">中文</a>
 </p>
 
-
 ---
 
 In Obsidian, repeated references are marked in the form of [number-count], which can be confused with the form [number to number].
@@ -15,8 +14,12 @@ This plugin is designed to solve this issue.
 
 ![](/assets/output.png)
 
+### Usage
 
-
+1. Create the plugin folder `[vault]\.obsidian\plugins\shorter-footnote` in the plugin path of the Obsidian vault
+2. Download `main.js` and `manifest.json` in releases to the above folder
+3. Enable this plugin in Obsidian
+4. Restart Obsidian
 
 ---
 

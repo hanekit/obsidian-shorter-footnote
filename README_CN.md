@@ -10,12 +10,16 @@
 
 本插件就是为了解决此问题制作的。
 
-### Effect
+### 效果
 
 ![](/assets/output.png)
 
+### 安装
 
-
+1. 在 Obsidian 库的插件路径创建插件文件夹 `[vault]\.obsidian\plugins\shorter-footnote`
+2. 下载 releases 中的 `main.js` 和 `manifest.json` 到上述文件夹中
+3. 在 Obsidian 中启用该插件
+4. 重启 Obsidian
 
 ---
 
