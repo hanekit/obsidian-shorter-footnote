@@ -14,7 +14,11 @@
 
 ![](/assets/output.png)
 
-### 安装
+### 利用 BART 安装
+
+[BART](https://github.com/TfTHacker/obsidian42-brat)
+
+### 手动安装
 
 1. 在 Obsidian 库的插件路径创建插件文件夹 `[vault]\.obsidian\plugins\shorter-footnote`
 2. 下载 releases 中的 `main.js` 和 `manifest.json` 到上述文件夹中

@@ -14,12 +14,20 @@ This plugin is designed to solve this issue.
 
 ![](/assets/output.png)
 
-### Usage
+### Install by BART
+
+[BART](https://github.com/TfTHacker/obsidian42-brat)
+
+### Install by self
 
 1. Create the plugin folder `[vault]\.obsidian\plugins\shorter-footnote` in the plugin path of the Obsidian vault
 2. Download `main.js` and `manifest.json` in releases to the above folder
 3. Enable this plugin in Obsidian
 4. Restart Obsidian
+
+### Install by BART
+
+[BART](https://github.com/TfTHacker/obsidian42-brat)
 
 ---
 
