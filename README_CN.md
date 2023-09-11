@@ -14,9 +14,9 @@
 
 ![](/assets/output.png)
 
-### 利用 BART 安装
+### 利用 BRAT 安装
 
-[BART](https://github.com/TfTHacker/obsidian42-brat)
+[BRAT](https://github.com/TfTHacker/obsidian42-brat)
 
 ### 手动安装
 

@@ -14,9 +14,9 @@ This plugin is designed to solve this issue.
 
 ![](/assets/output.png)
 
-### Install by BART
+### Install by BRAT
 
-[BART](https://github.com/TfTHacker/obsidian42-brat)
+[BRAT](https://github.com/TfTHacker/obsidian42-brat)
 
 ### Install by self
 
