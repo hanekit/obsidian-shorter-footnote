@@ -25,10 +25,6 @@ This plugin is designed to solve this issue.
 3. Enable this plugin in Obsidian
 4. Restart Obsidian
 
-### Install by BART
-
-[BART](https://github.com/TfTHacker/obsidian42-brat)
-
 ---
 
 The **Better Footnote** plugin affects the functionality of this plugin. If you want to avoid that, please follow these steps:
